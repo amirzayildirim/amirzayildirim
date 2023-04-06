@@ -1,4 +1,4 @@
-### Hi ! I'm Ahmet Mirza, a full-stack freelance web developer 💻  
+### Hi ! I'm Ahmet Mirza, a full-stack  web developer 💻  
   
 
 ###### I have 5+ years of experience as a web developer. I have developed web projects, APIs and desktop applications with various technologies in many companies, individually or as a team.  
